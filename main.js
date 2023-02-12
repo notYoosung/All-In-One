@@ -8,7 +8,7 @@ void (/\/*/); // Credit to Ski (@kaid_1037904081391187080498507); Gets rid of Ba
 //     };
 //     return draw();
 // })();
-; (function() {
+;(function() {
     var window = this;
     if (!window.__disableLoopProtection__) {
         window.__disableLoopProtection__ = true;
